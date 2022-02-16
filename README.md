@@ -1,4 +1,4 @@
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="35%" align="right" alt="Github" src="https://github.com/HansLiu11/HansLiu11/blob/4a1bf66ffb64aad4b09a60c8ba22774997101add/%C4%B0zmir%20Agency%20GIF%20-%20Find%20&%20Share%20on%20GIPHY.gif" />
 
 # 👋 Hi, I’m Hans
 I'm a computer science student from Taiwan
