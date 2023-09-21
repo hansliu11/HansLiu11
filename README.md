@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Hans
 #### A computer science student from Taiwan
-- 🔭 I’m currently working on [AInimal](https://ainimal.io/#/)
+- 🔭 I had been working on [AInimal](https://ainimal.io/#/)
 
 - 🌱 I’m currently learning **Wireless Network**
 
