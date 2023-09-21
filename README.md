@@ -4,7 +4,7 @@
 #### A computer science student from Taiwan
 - 🔭 I’m currently working on [AInimal](https://ainimal.io/#/)
 
-- 🌱 I’m currently learning **Yolov4**
+- 🌱 I’m currently learning **Wireless Network**
 
 - 📫 How to reach me **hansliu40815@gmial.com**
 
